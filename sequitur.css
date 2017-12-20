@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+#result {
+  display: block;
+  margin: auto;
+  font-size: 100px;
+}
